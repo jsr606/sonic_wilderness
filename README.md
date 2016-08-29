@@ -7,4 +7,4 @@ http://soccos.eu/blog/detail/sonic-wilderness-micro-residency-hailuoto-23-30-aug
 
 audio amplifiers from dx.com (but most amps would work): http://www.dx.com/p/tda2030-audio-amplifier-module-404662#.V8SVx67fyUc
 
-![schematic](http://https://github.com/jsr606/sonic_wilderness/blob/master/sonic_wilderness_scematic.jpg)
+![schematic](sonic_wilderness_scematic.jpg )
